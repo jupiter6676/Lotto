@@ -1,2 +1,4 @@
-# Lotto
-[KDT] JavaScript 실습
+# GitHub Pages
+
+https://jupiter6676.github.io/Lotto/
+
